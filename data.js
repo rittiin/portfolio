@@ -123,6 +123,14 @@ window.SITE = {
       link: "https://docs.google.com/document/d/1KfQEX8w6-OlyD6vdX2aWwbUqQLJWhcUoRmaCdVwunH4/edit",
     },
     {
+      title: "วิดีโอสาธิต: เขียนรายงานสถานการณ์โรคด้วย AI",
+      category: "media",
+      text: "สาธิตการใช้ภาพจาก DDS Dashboard ร่วมกับชุด Prompt สร้างรายงานสถานการณ์โรคเบื้องต้น",
+      tags: ["AI", "DDS", "YouTube"],
+      youtube: "D-Pu2dqmfZo",
+      link: "https://youtu.be/D-Pu2dqmfZo",
+    },
+    {
       title: "การทำแผนที่ด้วย QGIS — EP.1 การนำเข้า Shapefile",
       category: "media",
       text: "คลิปสอนการทำแผนที่ด้วย QGIS ช่อง Epi Focus",
